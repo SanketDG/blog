@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'SanketDG',
+  title: 'snkt',
   author: 'sanketdg',
   email: 'sanketdasgupta@gmail.com',
   link: 'https://snkt.vercel.app',
